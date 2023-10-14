@@ -76,15 +76,3 @@ WebScraper generates output in the form of JSON files, which are stored in the `
    ```
 
 
-## Acknowledgments
-
--  to the open-source community for providing valuable libraries and tools that made this project possible.
-
-
-## Note
-
-Web scraping should always be done responsibly and in compliance with the website's terms of service and legal regulations. Before using this framework, make sure you have the necessary permissions to scrape data from the targeted website.
-
-Additionally, keep in mind that scraping large amounts of data or scraping too frequently from a website can put strain on the site's resources and may result in IP bans or legal action. Please use this framework responsibly and ethically.
-
-The maintainers of this repository are not responsible for any misuse or legal consequences arising from the use of WebScraper. Users are encouraged to familiarize themselves with web scraping best practices and legal guidelines before using this tool. - clgi
