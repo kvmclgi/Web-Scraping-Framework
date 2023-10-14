@@ -1,11 +1,11 @@
-# WebScraper
+# Web Scraping Framework
 
-WebScraper is a Python-based web scraping tool designed to crawl websites efficiently while implementing sophisticated techniques to evade website security mechanisms and prevent blocking. Whether you require data extraction for research, analysis, or any other purpose, WebScraper streamlines the web scraping process, making it both effective and user-friendly.
+this framework is a Python-based web scraping tool designed to crawl websites efficiently while implementing sophisticated techniques to evade website security mechanisms and prevent blocking. Whether you require data extraction for research, analysis, or any other purpose, WebScraper streamlines the web scraping process, making it both effective and user-friendly.
 
 
 ## Features
 
-WebScraper offers several essential features to enhance your web scraping experience:
+It offers several essential features to enhance your web scraping experience:
 
 - **Request Throttling:** Avoid overwhelming target websites by intelligently throttling your requests, ensuring a respectful and non-disruptive scraping process.
 
@@ -18,31 +18,23 @@ WebScraper offers several essential features to enhance your web scraping experi
 These features collectively enhance the reliability and stealthiness of your web scraping tasks, enabling you to gather data with minimal disruption and increased success rates.
 
 
-## Getting Started
-
-Follow these instructions to get a copy of WebScraper up and running on your local machine.
-
 ### Prerequisites
-
-Make sure you have the following prerequisites installed:
-
 - Python 3.x
 - Pip (Python package manager)
 
 ### Installation
 
-#### Direct Installation
 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/MLArtist/WebScraper.git
+   git clone https://github.com/kvmclgi/Web-Scraping-Framework.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd WebScraper
+   cd Web-Scraping-Framework
    ```
 
 3. Install the required Python dependencies:
@@ -51,14 +43,13 @@ Make sure you have the following prerequisites installed:
    pip install -r requirements.txt
    ```
 
-Now, you're ready to start using WebScraper!
 
 #### Direct Usage
 
 To start scraping, use the following command:
 
    ```bash
-   cd webscraper
+   cd Web-Scraping-Framework
    python -m webscraper URL
   ```
 
